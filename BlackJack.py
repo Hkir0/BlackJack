@@ -131,3 +131,10 @@ def player_sec_turn(): # Wenn der Spieler eine Karte gezogen hat
         exit()
 
 game_start() #startet das Programm
+
+
+
+
+
+
+#A bit overkill
